@@ -20,7 +20,7 @@ THe server side is where all the bullets fly, grenades go boom etc, all as binar
 Building then Shooting
 =============
 
-N/A
+Compiling info should go here!
 
 Misc.
 =============
