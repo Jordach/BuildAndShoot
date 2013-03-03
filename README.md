@@ -1,7 +1,12 @@
-BuildAndShoot
+BuildAndShoot Client
 =============
 
 BuildAndShoot; a Open Source Voxel shooter licensed under the LGPL.
+
+IF YOU ARE READING THIS AND EXPECTING A BUILD / CLIENT. PLEASE BE DISSAPOINTED. This hasn't even gone somewhere yet.
+
+Explanatory Stuff Below!
+=============
 
 BuildAndShoot Client
 =============
