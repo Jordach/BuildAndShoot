@@ -25,6 +25,14 @@ THe server side is where all the bullets fly, grenades go boom etc, all as binar
 Building then Shooting
 =============
 
+Libaries:
+
+freeglut-2.8.0
+
+glm-0.9.4.1
+
+glew-1.9.0
+
 Compiling info should go here!
 
 Coding Ettiquete
