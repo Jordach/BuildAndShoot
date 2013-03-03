@@ -28,9 +28,17 @@ Coding Ettiquete
 Any bullshit such as tabs in a function line eg:
 
 int asdf(this, this,
+
         rubbish, lies)
 
 is difficult for HUMANS to read.
+
+This is easy to read.
+
+int Network(bullet, ammocount, magic, particales)
+
+Submitting Fixes / Bugs
+=============
 
 Submit things such as bug reports, missing items, models media, etc.
 
