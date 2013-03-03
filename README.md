@@ -28,7 +28,7 @@ Building then Shooting
 Libaries:
 
 freeglut-2.8.0
-https://github.com/Jordach/BuildAndShoot#buildandshoot-client
+
 glm-0.9.4.1
 
 glew-1.9.0
