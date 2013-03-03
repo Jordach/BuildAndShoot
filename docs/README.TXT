@@ -57,4 +57,5 @@ Y: Talk to your own team colour, and enter commands with "/"
 Setting up game defaults:
 
 config.txt contains all required things the executable client needs, such as: Name, Spoken Language, Motto, INCLUDING FULLSCREEN AND RESOLUTION which was (voxlap's bane!) etc..
+
 (Note: Spoken Language and Motto are for later releases which until then, will not be used even if the spaces have been used correctly.)
