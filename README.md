@@ -27,10 +27,8 @@ Coding Ettiquete
 
 Any bullshit such as tabs in a function line eg:
 
-int asdf(this, this,
-
-        rubbish, lies)
-
+int asdf (bracket)this, this,
+this, and this(closing bracket)
 is difficult for HUMANS to read.
 
 This is easy to read.
