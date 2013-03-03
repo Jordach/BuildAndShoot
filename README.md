@@ -22,6 +22,22 @@ Building then Shooting
 
 Compiling info should go here!
 
+Coding Ettiquete
+=============
+
+Any bullshit such as tabs in a function line eg:
+
+int asdf(this, this,
+        rubbish, lies)
+
+is difficult for HUMANS to read.
+
+Submit things such as bug reports, missing items, models media, etc.
+
+Feel free to pull request things when a branch is done.
+
+ProTip: Squash commits when done, it makes the history easier to clean when I'm either reverting broken changes, or fixing crap code.
+
 Misc.
 =============
 
