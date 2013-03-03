@@ -1,7 +1,7 @@
 BuildAndShoot Client
 =============
 
-BuildAndShoot; a Open Source Voxel shooter licensed under the LGPL.
+BuildAndShoot Client; a Open Source Voxel shooter licensed under the LGPL.
 
 IF YOU ARE READING THIS AND EXPECTING A BUILD / CLIENT. PLEASE BE DISSAPOINTED. This hasn't even gone somewhere yet.
 
@@ -28,7 +28,7 @@ Building then Shooting
 Libaries:
 
 freeglut-2.8.0
-
+https://github.com/Jordach/BuildAndShoot#buildandshoot-client
 glm-0.9.4.1
 
 glew-1.9.0
