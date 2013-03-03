@@ -46,7 +46,7 @@ is difficult for HUMANS to read.
 
 This is easy to read.
 
-int Network(bullet, ammocount, magic, particales)
+int Network(bullet, ammocount, magic, particles)
 
 Submitting Fixes / Bugs
 =============
