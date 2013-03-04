@@ -35,13 +35,13 @@ glew-1.9.0
 
 If you git cloned like a good person should, then it should be pretty obvious that you should:
 
-$-: cd BuildAndShnoot
+$-: cd BuildAndShoot
 
 $-: cd src
 
 $-: make
 
-$-: ./BuildAndShoot (or client)
+$-: ./BnSClient
 
 Compiling info should go here!
 
