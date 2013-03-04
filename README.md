@@ -33,6 +33,16 @@ glm-0.9.4.1
 
 glew-1.9.0
 
+If you git cloned like a good person should, then it should be pretty obvious that you should:
+
+$-: cd BuildAndShnoot
+
+$-: cd src
+
+$-: make
+
+$-: ./BuildAndShoot (or client)
+
 Compiling info should go here!
 
 Coding Ettiquete
