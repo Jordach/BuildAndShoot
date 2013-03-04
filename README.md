@@ -28,7 +28,7 @@ Building then Shooting
 Libaries:
 
 freeglut-2.8.0
-https://github.com/Jordach/BuildAndShoot#buildandshoot-client
+
 glm-0.9.4.1
 
 glew-1.9.0
@@ -46,7 +46,7 @@ is difficult for HUMANS to read.
 
 This is easy to read.
 
-int Network(bullet, ammocount, magic, particales)
+int Network(bullet, ammocount, magic, particles)
 
 Submitting Fixes / Bugs
 =============
