@@ -78,6 +78,10 @@ Misc.
 
 I DO NOT OWN THE NAME BuildAndShoot, I am using it to notify users that the client is built for and designed for the older Voxlap AoS players.
 
+This is what the game should look like with full 0.75 network compatibility:
+
+http://www.youtube.com/watch?v=p3jPXgsXPVE
+
 This is what I hopefully think the end should look like:
 
 http://www.youtube.com/watch?v=QINwCaJgX4o
