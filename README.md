@@ -45,6 +45,12 @@ $-: ./BnSClient
 
 Compiling info should go here!
 
+I'm not actually sure if I should do this method, at some point I'll probably end up using a cmake option.
+
+Also: I might have found a useful engine!
+
+C4 Engine, I'm still looking for somthing with .vox and .kv6 out of the box.
+
 Coding Ettiquete
 =============
 
