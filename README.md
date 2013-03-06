@@ -25,31 +25,13 @@ THe server side is where all the bullets fly, grenades go boom etc, all as binar
 Building then Shooting
 =============
 
-Libaries:
+I am using this engine:
 
-freeglut-2.8.0
+http://gameplay3d.org
 
-glm-0.9.4.1
+SO PLEASE, GO READ THE WIKI ON IT!
 
-glew-1.9.0
-
-If you git cloned like a good person should, then it should be pretty obvious that you should:
-
-$-: cd BuildAndShoot
-
-$-: cd src
-
-$-: make
-
-$-: ./BnSClient
-
-Compiling info should go here!
-
-I'm not actually sure if I should do this method, at some point I'll probably end up using a cmake option.
-
-Also: I might have found a useful engine!
-
-C4 Engine, I'm still looking for somthing with .vox and .kv6 out of the box.
+ALSO: KV6 / VXL model support is coming soon!
 
 Coding Ettiquete
 =============
