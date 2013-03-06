@@ -31,7 +31,7 @@ http://gameplay3d.org
 
 SO PLEASE, GO READ THE WIKI ON IT!
 
-ALSO: KV6 / VXL model support is coming soon!
+ALSO: KV6 model support / VXL map support is coming soon!
 
 Coding Ettiquete
 =============
