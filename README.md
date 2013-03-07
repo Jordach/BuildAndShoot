@@ -38,8 +38,7 @@ Coding Ettiquete
 
 Any bullshit such as tabs in a function line eg:
 
-int asdf (bracket)this, this,
-this, and this(closing bracket)
+int asdf (bracket)this, this, this, and this(closing bracket)
 is difficult for HUMANS to read.
 
 This is easy to read.
@@ -59,6 +58,9 @@ Misc.
 =============
 
 I DO NOT OWN THE NAME BuildAndShoot, I am using it to notify users that the client is built for and designed for the older Voxlap AoS players.
+
+Quality Control.
+=============
 
 This is what the game should look like with full 0.75 network compatibility:
 
