@@ -27,11 +27,7 @@ THe server side is where all the bullets fly, grenades go boom etc, all as binar
 Building then Shooting
 =============
 
-I am using this engine:
-
-http://gameplay3d.org
-
-SO PLEASE, GO READ THE WIKI ON IT!
+Actually, I've been stuck considering the engine and other shit I should be using, so I have decided to use my own custom stuff, and then plugin a renderer. SO everything will work as PLAIN C++ without any problems.
 
 ALSO: KV6 model support / VXL map support is coming soon!
 
