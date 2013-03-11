@@ -27,7 +27,7 @@ THe server side is where all the bullets fly, grenades go boom etc, all as binar
 Building then Shooting
 =============
 
-Actually, I've been stuck considering the engine and other shit I should be using, so I have decided to use my own custom stuff, and then plugin a renderer. SO everything will work as PLAIN C++ without any problems.
+I had to use Python since Mat^2's 1.0 is actually python.
 
 ALSO: KV6 model support / VXL map support is coming soon!
 
