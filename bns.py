@@ -3,7 +3,7 @@ from pygame.locals import *
 
 pygame.init()
 DISPLAYSURF = pygame.display.set_mode((800, 600), 0, 32)
-pygame.display.set_caption('BuildAndAShoot')
+pygame.display.set_caption('BuildAndShoot')
 
 BLACK = (0,0,0)
 WHITE = (255,255,255)
