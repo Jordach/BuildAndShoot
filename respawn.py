@@ -5,7 +5,6 @@ soundobj = pygame.mixer.Sound('sounds/beep2.wav')
 soundobj.play()
 print "INSERT COIN: 3"
 time.sleep(1)
-import os
 def cls():
     os.system(['clear','cls'][os.name == 'nt'])
 cls()
@@ -14,9 +13,6 @@ soundobj = pygame.mixer.Sound('sounds/beep2.wav')
 soundobj.play()
 print "INSERT COIN: 2"
 time.sleep(1)
-import os
-def cls():
-    os.system(['clear','cls'][os.name == 'nt'])
 cls()
 soundobj.stop()
 soundobj = pygame.mixer.Sound('sounds/beep1.wav')
