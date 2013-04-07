@@ -4,7 +4,7 @@ cls
 COLOR 02
 ECHO =============== Choose your Directory ================
 ECHO -------------------------------------
-ECHO Choose if you installed to default directory (C:\Ace of Spades)
+ECHO Choose if you installed Ace of Spades to the default directory (C:\Ace of Spades)
 ECHO or if you need to type your own directory (EX. C:\Program Files\Ace of Spades)
 ECHO Type A for default directory
 ECHO Type B to enter your own directory
@@ -28,6 +28,7 @@ ECHO EX: C:\Program Files\Ace of Spades
 set /p INPUT=
 ECHO Press any key to start.
 pause >nul
+mkdir models
 copy "%INPUT%\kv6\*.kv6" "%CD%\models"
 pause
 goto :error
@@ -36,6 +37,7 @@ cls
 COLOR 03
 ECHO Press any key to start.
 pause >nul
+mkdir models
 copy "C:\Ace of Spades\kv6\*.kv6" "%CD%\models"
 pause
 goto :error
